@@ -2,6 +2,7 @@ h1 {
   font-size: 80px;
   color: white;
   text-align: center;
+  font-family: cursive;
 }
 img {
   height: 800px;
@@ -19,8 +20,9 @@ body{
 
 }
 h2{
-  color: cyan;
+  color: #b9f590;
   font-size: 25px;
+  text-align: center;
 }
 li{
   color: white;
@@ -28,9 +30,10 @@ li{
   font-style: oblique;
 }
 strong{
-  color: yellow;
-  font-size: 30px;
+  color: red;
+  font-size: 40px;
   font-style: oblique;
+  text-align: center;
 }
 ul{
   font-size: 40px;
@@ -38,19 +41,23 @@ ul{
   color: purple;
 }
 h3{
-  color: green;
+  color: black;
   font-size: 25px;
+  text-align: center;
 }
 h4{
   color: red;
   font-size: 25px;
+  text-align: center;
 }
 h5{
   color: yellow;
   font-size: 25px;
 }
 h6{
-  color: cyan;
+  color: white;
   font-size: 30px;
   font-style: oblique;
+  text-align: center;
+  font-family: serif;
 }
